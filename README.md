@@ -13,6 +13,7 @@
 <h2>Comandos para instalar as bibliotecas</h2>
 <h3>Abra o cmd/terminal e digite os seguintes comandos após ter instalado o Python</h3>
 
+* pip install --upgrade pip
 * pip install --upgrade bs4
 * pip install --upgrade pandas
 
