@@ -5,7 +5,7 @@ import pandas as pd
 
 names_list = [] #Lista auxiliar
 price_list = [] #Lista auxiliar
-links_list = [] #Listb#Lista auxiliar
+links_list = [] #Lista auxiliar
 
 def getHTML(url): #Função que retorna o HTML da página
     try:
