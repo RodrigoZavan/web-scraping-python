@@ -9,7 +9,7 @@
 
 <p>Para utilizar o programa é necessário ter o python instalado em sua máquina</p>
 <p>Caso não tenha, você pode baixar pelo link: https://www.python.org/</p>
-<p>Também é necessário ter as bibliotecas instaladas: Pandas e Beautiful Soup e biblioteca urllib já vem por padrão com o python</p>
+<p>Também é necessário ter as bibliotecas instaladas: Pandas e Beautiful Soup e biblioteca, a urllib já vem por padrão com o python</p>
 <h2>Comandos para instalar as bibliotecas</h2>
 <h3>Abra o cmd/terminal e digite os seguintes comandos após ter instalado o Python</h3>
 
